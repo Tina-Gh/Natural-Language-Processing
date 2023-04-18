@@ -26,3 +26,6 @@ Non-text pipelines:
 <a href="https://lazyprogrammer.me/list-of-hugging-face-pipelines-for-nlp/" target="_blank">Reference Link</a>
 
 <hr>
+
+Machine Translation model names using Hugging Face Hub: 
+<a href="https://huggingface.co/models?pipeline_tag=translation&sort=downloads" target="_blank">Link</a>
