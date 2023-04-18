@@ -29,3 +29,7 @@ Non-text pipelines:
 
 Machine Translation model names using Hugging Face Hub: 
 <a href="https://huggingface.co/models?pipeline_tag=translation&sort=downloads" target="_blank">Link</a>
+
+<hr>
+
+
